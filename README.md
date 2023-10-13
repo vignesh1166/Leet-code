@@ -1,5 +1,4 @@
 # SQL LEET-CODE CHALLENGE
 
-## Q1
-##### 1757. Recyclable and Low Fat Products
+## This repo contains all my SQL solutions from Leetcode website in order to practice my SQL programming skills.
 
